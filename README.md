@@ -1,9 +1,6 @@
 ### Hi there, I'm Jasmin but you can call me Jalson1982 👋 
 
-## I'm software developer and love to create awesome apps 
-
-
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" />" alt="Programmation" width="200" />
+## I'm software developer and love to create awesome apps <img align="right" src="<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />" alt="Programmation" width="200" />
 
 - 👨🏻‍💻 Developer with more then 12 years experience
 - 🔭 I’m currently working on a War on cancer app [www.waroncancer.com] 🌱!
