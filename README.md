@@ -10,7 +10,7 @@
 - 💡 I love innovation and new technologies 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Improve, enjoy and be better!
-- ⚡ Fun fact: I love to play chess!
+- ⚡ Free time: I love to play chess and watch soccer!
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jalson1982&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
