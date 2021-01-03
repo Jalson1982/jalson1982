@@ -1,6 +1,6 @@
-### Hi there, I'm Jasmin but you can call me Jalson1982 👋 
+### Hi there, I'm Jasmin but you can call me Jalson1982 <img src="https://ministryofprogramming.com/_assets/images/mop-logo-text-white-b7f18a19d9.svg"/>
 
-## I'm software developer and love to create awesome apps <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200" />
+## I'm a software developer from Bosnia Herzegovina and I am working in a best tech company [mop.ba] <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200" />
 
 - 👨🏻‍💻 Love to code and hate to sleep
 - 🔭 I’m currently working on a War on cancer app [www.waroncancer.com] 🌱!
