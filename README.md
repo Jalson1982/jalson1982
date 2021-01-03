@@ -1,4 +1,4 @@
-### Hi there, I'm Jasmin but you can call me Jalson1982 <img src="https://ministryofprogramming.com/_assets/images/social/social_image_2-5cd8ac4424.jpg" width="30" height="30"/>
+### Hi there, I'm Jasmin but you can call me Jalson1982 <img src="https://ministryofprogramming.com/_assets/images/blogs/tech_blog-90f9a59e89.png" width="30" height="30"/>
 
 ## I'm a software developer from Bosnia Herzegovina and I am working in a best tech company [mop.ba] <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200" />
 
