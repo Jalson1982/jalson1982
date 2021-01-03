@@ -16,10 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalson1982&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
-
-[<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [Ministry of programming]: https://mop.ba
 [linkedin]: https://www.linkedin.com/in/jasmin-fajkic-674b81136/
 [War on Cancer]:https://www.waroncancer.com
