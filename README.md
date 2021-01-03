@@ -3,7 +3,7 @@
 ## I'm a software developer working at best tech company [Ministry of programming] <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="170"/>
 
 - 👨🏻‍💻 Love to code and hate to sleep
-- 🔭 I’m currently making War on cancer app awesome [waroncancer] <img src="https://ministryofprogramming.com/_assets/images/woc_logo-090caccf63.jpg" width="20" height="20"/>
+- 🔭 I’m currently making War on cancer app awesome [War on Cancer] <img src="https://ministryofprogramming.com/_assets/images/woc_logo-090caccf63.jpg" width="20" height="20"/>
 - 🌱 I’m currently learning many things but focus is on Kotlin
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
