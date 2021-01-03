@@ -1,4 +1,4 @@
-# Hello, nerds! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align='center'> Hi nerds! :wave:</h1>
 
 - 🔭 I’m currently working on making War on cancer App awesome
 - 🌱 I’m currently learning Kotlin man!
