@@ -1,7 +1,6 @@
 ### Hi there, I'm Jasmin!
 
-## I'm a software developer working at 
-best tech company [Ministry of programming] <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200"/>
+## I'm a software developer working at best tech company [Ministry of programming] 
 
 <br />
 
@@ -12,6 +11,7 @@ best tech company [Ministry of programming] <img align="right" src="https://i.gi
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Improve, enjoy and be better!
 - ⚡ Fun fact: I love to play chess!
+<img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200"/>
 
 <br />
 
