@@ -2,7 +2,7 @@
 
 ## I'm software developer and love to create awesome apps <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200" />
 
-- 👨🏻‍💻 Developer with more then 12 years experience
+- 👨🏻‍💻 Love to code and hate to sleep
 - 🔭 I’m currently working on a War on cancer app [www.waroncancer.com] 🌱!
 - 🌱 I’m currently learning many things but focus is on Kotlin
 - 💡 I love innovation and new technologies
