@@ -1,6 +1,6 @@
 ### Hi there, I'm Jasmin!
 
-## I'm a software developer working at best tech company [Ministry of programming] <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200" margin-top="20"/>
+## I'm a software developer working at best tech company [Ministry of programming] <img align="right" src="https://i.giphy.com/media/hrRJ41JB2zlgZiYcCw/200w.webp" alt="Programmation" width="300" height="200" margin-top="120"/>
 
 - 👨🏻‍💻 Love to code and hate to sleep
 - 🔭 I’m currently making War on cancer app awesome [waroncancer] <img src="https://ministryofprogramming.com/_assets/images/woc_logo-090caccf63.jpg" width="20" height="20"/>
