@@ -1,6 +1,6 @@
 ### Hi there, I'm Jasmin!
 
-## I'm a software developer working for best tech company [Ministry of programming] 
+## I'm a software developer working in best tech company [Ministry of programming] 
 
 <br />
 
