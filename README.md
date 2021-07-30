@@ -13,9 +13,9 @@
 - ⚡ Free time: I love to play chess and watch soccer!
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jalson1982&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jalson1982&show_icons=true&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalson1982&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalson1982&show_icons=true&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [Ministry of programming]: https://mop.ba
 [linkedin]: https://www.linkedin.com/in/jasmin-fajkic-674b81136/
